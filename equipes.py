@@ -1,0 +1,16 @@
+equipes = [
+  { "nome": "Campos FC",  "cidade": "Campos",  "torcedores": 23 },
+  { "nome": "Guardiões FC",  "cidade": "Guardião",  "torcedores":40 },
+  { "nome": "CA Protetores",  "cidade": "Guardião",  "torcedores":20 },
+  { "nome": "SE Leões",  "cidade": "Leão",  "torcedores":40 },
+  { "nome": "Simba EC",  "cidade": "Leão",  "torcedores":15 },
+  # { "nome": "SE Granada",  "cidade": "Granada",  "torcedores":10 },
+  # { "nome": "CA Lagos",  "cidade": "Lagos",  "torcedores":20 },
+  # { "nome": "Solaris EC",  "cidade": "Ponte-do-Sol",  "torcedores":30 },
+  # { "nome": "Porto FC",  "cidade": "Porto",  "torcedores":45 },
+  # { "nome": "Ferroviária EC",  "cidade": "Campos",  "torcedores":38 },
+  # { "nome": "Portuários AA",  "cidade": "Porto",  "torcedores":12 },
+  # { "nome": "CA Azedos",  "cidade": "Limões",  "torcedores":18 },
+  # { "nome": "SE Escondidos",  "cidade": "Escondidos",  "torcedores":50 },
+  # { "nome": "Secretos FC",  "cidade": "Escondidos",  "torcedores":25 },
+]
